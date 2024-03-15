@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { AiFillGithub } from 'react-icons/ai'
 import { FaXTwitter } from "react-icons/fa6";
 import { FaLinkedinIn, FaInstagram } from 'react-icons/fa'
-import img from '../../assets/profile.jpg'
+import img from '../../assets/profile2.gif'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
