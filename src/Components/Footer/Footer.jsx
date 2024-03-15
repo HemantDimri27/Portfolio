@@ -6,22 +6,14 @@ import { FaLinkedinIn, FaInstagram } from 'react-icons/fa'
 function Footer() {
 
     const social = [
-        {
-          link: 'https://www.linkedin.com/in/chirag-jain-77aa30148',
-          icon: <FaLinkedinIn/>,
-        },
-        {
-          link: 'https://github.com/chiragjain307',
-          icon: <AiFillGithub/>,
-        },
-        {
-          link: 'https://twitter.com/mr_kasliwal',
-          icon: <FaXTwitter/>,
-        },
-        {
-          link: 'https://www.instagram.com/_mr_kasliwal_',
-          icon: <FaInstagram/>,
-        }
+      {
+        link: 'https://www.linkedin.com/in/hemantdimri/',
+        icon: <FaLinkedinIn/>,
+      },
+      {
+        link: 'https://github.com/HemantDimri27',
+        icon: <AiFillGithub/>,
+      }
       ]
       
     return (
@@ -32,8 +24,8 @@ function Footer() {
                 <div className='md:flex lg:flex gap-10 '>
                     <div>
                         <h2 className='text-[22px] font-semibold text-fuchsia-800 py-2  uppercase'>Contact</h2>
-                        <a href="mailto:chiragjain.jain7@gmail.com" className='text-[16px]  hover:text-fuchsia-800 transition-all duration-150 ease-in-out cursor-pointer'>Email: chiragjain.jain7@gmail.com</a>
-                        <p className='text-[16px] pb-5 hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>Phone: +91-8302421632</p>
+                        <a href="mailto:chiragjain.jain7@gmail.com" className='text-[16px]  hover:text-fuchsia-800 transition-all duration-150 ease-in-out cursor-pointer'>Email: dimrihemant27@gmail.com</a>
+                        <p className='text-[16px] pb-5 hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>Phone: +91- 6396589753</p>
                     </div>
                     <div>
                         <h2 className='text-[22px] font-semibold text-fuchsia-800 py-2 uppercase'>Follow Me</h2>
