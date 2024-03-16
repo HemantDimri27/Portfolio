@@ -1,23 +1,32 @@
-import img1 from '../assets/img1.png'
-import img2 from '../assets/weather.png'
-import img3 from '../assets/todoApp.png'
-import img4 from '../assets/img4.png'
+import img1 from '../assets/weather.png'
+import img2 from '../assets/youtube-clone.png'
+import img3 from '../assets/barber-shop.png'
+
 
 const ProjectsList = [
     {
-        id: 2,
-        title: 'Current Weather WebApp',
-        link: 'https://weather-webapp-pro.vercel.app',
-        github: 'https://github.com/chiragjain307/Weather-WebApp',
-        image: img2
+        id: 1,
+        title: 'Weather-WebApp',
+        link: 'https://weather-web-app0027.netlify.app/',
+        github: 'https://github.com/HemantDimri27/Weather-WebApp',
+        image: img1
     },
     {
+        id: 2,
+        title: 'Youtube-Clone',
+        link: 'https://youtube0027.netlify.app/',
+        github: 'https://github.com/HemantDimri27/YouTube-Clone',
+        image: img2
+    },
+    
+    {
         id: 3,
-        title: 'Todo WebApp',
-        link: 'https://todo-webapp-pro.vercel.app',
-        github: 'https://github.com/chiragjain307/Todo-WebApp',
+        title: 'Barber-Shop',
+        link: 'https://barber-sphop0027.netlify.app/',
+        github: 'https://github.com/HemantDimri27/Barber_Shop',
         image: img3
     },
+    
         
     
 ]
