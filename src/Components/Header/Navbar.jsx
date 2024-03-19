@@ -5,6 +5,8 @@ import { Link } from 'react-scroll'
 import { FaTimes } from 'react-icons/fa'
 import { CiMenuFries } from 'react-icons/ci'
 
+//header navbar
+
 function Navbar() {
     const [click, setClick] = useState(false)
     const [darkMode, setDarkMode] = useState(true);
