@@ -5,7 +5,7 @@ import { Link } from 'react-scroll'
 import { FaTimes } from 'react-icons/fa'
 import { CiMenuFries } from 'react-icons/ci'
 
-//header navbar with this time
+//header navbar with this time we get it
 
 function Navbar() {
     const [click, setClick] = useState(false)
