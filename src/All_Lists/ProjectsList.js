@@ -11,7 +11,7 @@ const ProjectsList = [
     {
         id: 1,
         title: 'Mega-Blog',
-        link: '',
+        link: 'https://mega-blog0027.netlify.app/',
         github: 'https://github.com/HemantDimri27/MegaBlog',
         image: img1
     },
